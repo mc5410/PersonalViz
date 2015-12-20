@@ -1,0 +1,2502 @@
+Day,Hour,Category,Timespent,Month
+3,6,Browsers,2,9
+3,6,Email,78,9
+3,6,Engineering & Technology,49,9
+3,6,General News & Opinion,349,9
+3,6,General Reference & Learning,7,9
+3,6,General Social Networking,22,9
+3,6,Search,8,9
+3,7,Browsers,18,9
+3,7,General News & Opinion,2,9
+3,7,General Reference & Learning,23,9
+3,7,General Shopping,38,9
+3,7,General Social Networking,953,9
+3,7,General Utilities,49,9
+3,7,Home & Garden,10,9
+3,7,Search,190,9
+3,7,Uncategorized,108,9
+3,7,Video,201,9
+3,8,Browsers,24,9
+3,8,Email,78,9
+3,8,General Shopping,20,9
+3,8,General Social Networking,233,9
+3,8,General Utilities,39,9
+3,8,Instant Message,12,9
+3,8,Science & Technology,44,9
+3,8,Search,134,9
+3,8,Uncategorized,166,9
+3,8,Video,28,9
+3,9,General Utilities,41,9
+3,9,Uncategorized,21,9
+3,11,Browsers,54,9
+3,11,General Shopping,13,9
+3,11,General Social Networking,216,9
+3,11,Intelligence,4,9
+3,11,Search,10,9
+3,11,Uncategorized,1626,9
+3,12,Intelligence,227,9
+3,12,Uncategorized,88,9
+3,14,Browsers,6,9
+3,14,General Social Networking,12,9
+3,14,General Utilities,33,9
+3,14,Instant Message,26,9
+3,14,Intelligence,606,9
+3,14,Uncategorized,107,9
+3,15,Browsers,1,9
+3,15,General Utilities,65,9
+3,15,Instant Message,13,9
+3,15,Intelligence,3,9
+3,15,Uncategorized,228,9
+3,16,Browsers,75,9
+3,16,General Social Networking,22,9
+3,16,General Utilities,32,9
+3,16,Uncategorized,50,9
+3,17,Browsers,15,9
+3,17,General Business,2,9
+3,17,Instant Message,8,9
+3,17,Uncategorized,896,9
+3,18,Browsers,56,9
+3,18,Calendars,33,9
+3,18,General Business,1067,9
+3,18,General Entertainment,39,9
+3,18,General Reference & Learning,903,9
+3,18,Intelligence,87,9
+3,18,Legal & Gov't,24,9
+3,18,Search,271,9
+3,18,Uncategorized,721,9
+3,18,Voice Chat,4,9
+3,19,Calendars,29,9
+3,19,Engineering & Technology,9,9
+3,19,General Business,327,9
+3,19,General Reference & Learning,1891,9
+3,19,General Utilities,4,9
+3,19,Uncategorized,1340,9
+3,20,Browsers,2,9
+3,20,Calendars,7,9
+3,20,General Business,650,9
+3,20,General Social Networking,221,9
+3,20,General Utilities,68,9
+3,20,Uncategorized,559,9
+3,20,Video,488,9
+3,22,General Utilities,35,9
+3,22,Uncategorized,302,9
+3,22,Video,8,9
+3,23,Browsers,19,9
+3,23,General News & Opinion,392,9
+3,23,General Shopping,463,9
+3,23,General Social Networking,626,9
+3,23,Search,131,9
+3,23,Uncategorized,198,9
+3,23,Video,587,9
+4,9,General Entertainment,7,9
+4,9,Intelligence,2,9
+4,9,Uncategorized,332,9
+4,10,Browsers,14,9
+4,10,General Reference & Learning,1,9
+4,10,General Shopping,24,9
+4,10,General Utilities,63,9
+4,10,Search,76,9
+4,10,Uncategorized,381,9
+4,10,Video,4,9
+4,11,Browsers,48,9
+4,11,Calendars,26,9
+4,11,General Entertainment,24,9
+4,11,General Reference & Learning,514,9
+4,11,General Social Networking,43,9
+4,11,General Utilities,120,9
+4,11,Instant Message,282,9
+4,11,Search,868,9
+4,11,Uncategorized,338,9
+4,11,Voice Chat,4,9
+4,12,Browsers,33,9
+4,12,Email,77,9
+4,12,General News & Opinion,13,9
+4,12,General Social Networking,509,9
+4,12,General Utilities,60,9
+4,12,Instant Message,1265,9
+4,12,Search,89,9
+4,12,Uncategorized,1133,9
+4,12,Video,142,9
+4,12,Voice Chat,40,9
+4,14,Browsers,10,9
+4,14,Email,70,9
+4,14,General Social Networking,18,9
+4,14,General Utilities,13,9
+4,14,Uncategorized,384,9
+4,14,Video,115,9
+4,15,Browsers,28,9
+4,15,General Reference & Learning,14,9
+4,15,Search,38,9
+4,15,Travel & Outdoors,127,9
+4,15,Uncategorized,1484,9
+4,15,Voice Chat,6,9
+4,16,Browsers,21,9
+4,16,General Business,192,9
+4,16,General Entertainment,21,9
+4,16,General Reference & Learning,111,9
+4,16,General Social Networking,144,9
+4,16,General Utilities,43,9
+4,16,Instant Message,181,9
+4,16,Search,169,9
+4,16,Travel & Outdoors,1,9
+4,16,Uncategorized,1376,9
+4,16,Video,5,9
+4,16,Voice Chat,4,9
+4,16,Writing,176,9
+4,17,Browsers,28,9
+4,17,Engineering & Technology,457,9
+4,17,General Business,1773,9
+4,17,General Reference & Learning,101,9
+4,17,General Social Networking,297,9
+4,17,Instant Message,140,9
+4,17,Presentation,50,9
+4,17,Search,8,9
+4,17,Uncategorized,737,9
+4,17,Voice Chat,8,9
+4,18,Browsers,16,9
+4,18,Engineering & Technology,3,9
+4,18,General Business,1285,9
+4,18,General Reference & Learning,233,9
+4,18,General Social Networking,109,9
+4,18,General Utilities,35,9
+4,18,Presentation,197,9
+4,18,Uncategorized,115,9
+5,1,Browsers,50,9
+5,1,Engineering & Technology,2,9
+5,1,General Business,5,9
+5,1,General Entertainment,44,9
+5,1,General News & Opinion,131,9
+5,1,General Reference & Learning,14,9
+5,1,General Shopping,147,9
+5,1,General Social Networking,337,9
+5,1,General Software Development,3,9
+5,1,General Utilities,33,9
+5,1,Presentation,2,9
+5,1,Science & Technology,1,9
+5,1,Search,122,9
+5,1,Uncategorized,604,9
+5,1,Video,357,9
+5,11,General Shopping,6,9
+5,11,General Utilities,33,9
+5,11,Uncategorized,20,9
+5,12,Browsers,51,9
+5,12,General News & Opinion,150,9
+5,12,General Shopping,654,9
+5,12,General Social Networking,149,9
+5,12,General Utilities,215,9
+5,12,Instant Message,2,9
+5,12,Search,26,9
+5,12,Uncategorized,100,9
+5,12,Video,92,9
+5,21,Browsers,19,9
+5,21,General Utilities,35,9
+5,21,Quality Assurance,359,9
+5,21,Search,138,9
+5,21,Uncategorized,12,9
+5,21,Video,808,9
+6,8,General Utilities,41,9
+6,8,Travel & Outdoors,4,9
+6,8,Video,10,9
+6,9,Browsers,85,9
+6,9,General Shopping,2,9
+6,9,General Social Networking,339,9
+6,9,Instant Message,10,9
+6,9,Maps & Regional,35,9
+6,9,Search,178,9
+6,9,Travel & Outdoors,1158,9
+6,9,Uncategorized,107,9
+6,9,Video,4,9
+6,10,Browsers,15,9
+6,10,General Social Networking,83,9
+6,10,General Utilities,37,9
+6,10,Search,86,9
+6,10,Travel & Outdoors,275,9
+6,10,Uncategorized,286,9
+6,11,Browsers,7,9
+6,11,General Shopping,1,9
+6,11,General Social Networking,708,9
+6,11,General Utilities,95,9
+6,11,Search,5,9
+6,11,Uncategorized,13,9
+6,16,Browsers,3,9
+6,16,General Shopping,177,9
+6,16,General Social Networking,5,9
+6,16,Uncategorized,2,9
+6,19,Browsers,17,9
+6,19,Calendars,49,9
+6,19,Engineering & Technology,16,9
+6,19,General News & Opinion,6,9
+6,19,General Reference & Learning,59,9
+6,19,General Shopping,29,9
+6,19,General Social Networking,13,9
+6,19,General Utilities,146,9
+6,19,Intelligence,4,9
+6,19,Search,371,9
+6,19,Travel & Outdoors,235,9
+6,19,Uncategorized,1388,9
+6,20,Browsers,22,9
+6,20,Calendars,2,9
+6,20,General Entertainment,232,9
+6,20,General News & Opinion,31,9
+6,20,General Shopping,27,9
+6,20,General Social Networking,338,9
+6,20,General Utilities,33,9
+6,20,Search,3,9
+6,20,Travel & Outdoors,4,9
+6,20,Uncategorized,839,9
+6,20,Video,2,9
+6,21,Browsers,14,9
+6,21,Calendars,19,9
+6,21,Engineering & Technology,19,9
+6,21,General Business,7,9
+6,21,General Entertainment,72,9
+6,21,General News & Opinion,15,9
+6,21,General Reference & Learning,331,9
+6,21,General Social Networking,327,9
+6,21,General Utilities,33,9
+6,21,Intelligence,23,9
+6,21,Search,46,9
+6,21,Uncategorized,860,9
+6,22,Browsers,9,9
+6,22,General News & Opinion,660,9
+6,22,General Reference & Learning,11,9
+6,22,General Shopping,474,9
+6,22,General Social Networking,504,9
+6,22,General Software Development,28,9
+6,22,Science & Technology,18,9
+6,22,Search,71,9
+6,22,Uncategorized,110,9
+6,22,Video,11,9
+6,23,Calendars,13,9
+6,23,General Shopping,127,9
+6,23,General Social Networking,1,9
+6,23,General Utilities,33,9
+6,23,Uncategorized,105,9
+7,8,Browsers,37,9
+7,8,General News & Opinion,1,9
+7,8,General Shopping,3,9
+7,8,General Social Networking,901,9
+7,8,General Utilities,65,9
+7,8,Instant Message,251,9
+7,8,Internet Utilities,3,9
+7,8,Search,185,9
+7,8,Uncategorized,90,9
+7,9,Browsers,65,9
+7,9,Calendars,129,9
+7,9,General News & Opinion,722,9
+7,9,General Shopping,1,9
+7,9,General Social Networking,419,9
+7,9,General Utilities,150,9
+7,9,Search,156,9
+7,9,Travel & Outdoors,29,9
+7,9,Uncategorized,453,9
+7,22,Browsers,13,9
+7,22,General Shopping,334,9
+7,22,General Utilities,28,9
+7,22,Search,26,9
+7,22,Uncategorized,6,9
+7,23,Browsers,23,9
+7,23,Calendars,3,9
+7,23,General News & Opinion,2,9
+7,23,General Shopping,919,9
+7,23,General Social Networking,691,9
+7,23,General Utilities,19,9
+7,23,Internet Utilities,1,9
+7,23,Search,139,9
+7,23,Uncategorized,41,9
+8,0,General News & Opinion,11,9
+8,0,General Shopping,30,9
+8,0,General Utilities,37,9
+8,0,Search,265,9
+8,1,Browsers,42,9
+8,1,General News & Opinion,291,9
+8,1,General Shopping,24,9
+8,1,General Social Networking,5,9
+8,1,General Utilities,5,9
+8,1,Search,55,9
+8,1,Uncategorized,110,9
+8,8,Browsers,4,9
+8,8,Calendars,55,9
+8,8,General News & Opinion,2,9
+8,8,Project Management,2,9
+8,8,Uncategorized,75,9
+8,9,Browsers,25,9
+8,9,Calendars,434,9
+8,9,General News & Opinion,63,9
+8,9,General Reference & Learning,44,9
+8,9,General Utilities,84,9
+8,9,Intelligence,1,9
+8,9,Project Management,1367,9
+8,9,Search,26,9
+8,9,Uncategorized,601,9
+8,9,Voice Chat,554,9
+8,10,Browsers,9,9
+8,10,Calendars,69,9
+8,10,General Reference & Learning,43,9
+8,10,General Social Networking,1,9
+8,10,General Utilities,58,9
+8,10,Intelligence,1038,9
+8,10,Project Management,12,9
+8,10,Search,2,9
+8,10,Uncategorized,146,9
+8,10,Voice Chat,5,9
+8,11,Browsers,24,9
+8,11,Email,71,9
+8,11,General Reference & Learning,3,9
+8,11,General Social Networking,505,9
+8,11,General Utilities,17,9
+8,11,Instant Message,18,9
+8,11,Intelligence,7,9
+8,11,Search,6,9
+8,11,Uncategorized,33,9
+8,12,Browsers,25,9
+8,12,Calendars,608,9
+8,12,Email,45,9
+8,12,General Business,126,9
+8,12,General Reference & Learning,73,9
+8,12,General Social Networking,70,9
+8,12,General Utilities,48,9
+8,12,Instant Message,82,9
+8,12,Search,24,9
+8,12,Uncategorized,800,9
+8,12,Writing,338,9
+8,13,Browsers,1,9
+8,13,General Reference & Learning,28,9
+8,13,General Social Networking,80,9
+8,13,General Utilities,3,9
+8,13,Search,2,9
+8,13,Uncategorized,316,9
+8,14,Calendars,136,9
+8,14,General Reference & Learning,7,9
+8,14,General Utilities,394,9
+8,14,Uncategorized,754,9
+8,14,Writing,3,9
+8,15,Browsers,31,9
+8,15,Calendars,3,9
+8,15,General Business,608,9
+8,15,General Entertainment,118,9
+8,15,General Reference & Learning,133,9
+8,15,General Social Networking,105,9
+8,15,General Utilities,33,9
+8,15,Intelligence,3,9
+8,15,Search,55,9
+8,15,Uncategorized,590,9
+8,15,Writing,1530,9
+8,16,Browsers,8,9
+8,16,Calendars,35,9
+8,16,Engineering & Technology,92,9
+8,16,General Business,1614,9
+8,16,General Reference & Learning,78,9
+8,16,General Utilities,121,9
+8,16,Intelligence,66,9
+8,16,Presentation,38,9
+8,16,Search,87,9
+8,16,Uncategorized,855,9
+8,17,General Reference & Learning,187,9
+8,17,Uncategorized,261,9
+8,18,Browsers,2,9
+8,18,Calendars,4,9
+8,18,Engineering & Technology,1,9
+8,18,General Business,137,9
+8,18,General Reference & Learning,4,9
+8,18,General Utilities,34,9
+8,18,Intelligence,318,9
+8,18,Search,2,9
+8,18,Uncategorized,342,9
+8,19,Uncategorized,166,9
+8,22,Browsers,27,9
+8,22,Calendars,19,9
+8,22,Engineering & Technology,3,9
+8,22,General Business,269,9
+8,22,General Communication & Scheduling,346,9
+8,22,General Reference & Learning,26,9
+8,22,General Shopping,199,9
+8,22,General Social Networking,215,9
+8,22,General Utilities,6,9
+8,22,Intelligence,4,9
+8,22,Presentation,4,9
+8,22,Project Management,187,9
+8,22,Search,79,9
+8,22,Uncategorized,768,9
+8,23,Browsers,5,9
+8,23,Calendars,87,9
+8,23,Engineering & Technology,3,9
+8,23,General Business,216,9
+8,23,General Communication & Scheduling,12,9
+8,23,General Reference & Learning,352,9
+8,23,General Shopping,6,9
+8,23,Intelligence,7,9
+8,23,Internet Utilities,58,9
+8,23,Project Management,47,9
+8,23,Search,4,9
+8,23,Uncategorized,1335,9
+9,0,Browsers,34,9
+9,0,Calendars,11,9
+9,0,Email,35,9
+9,0,Engineering & Technology,106,9
+9,0,General Shopping,25,9
+9,0,General Social Networking,46,9
+9,0,General Utilities,263,9
+9,0,Intelligence,52,9
+9,0,Search,37,9
+9,0,Systems Operations,3,9
+9,0,Uncategorized,850,9
+9,1,Uncategorized,16,9
+9,7,Browsers,36,9
+9,7,Email,10,9
+9,7,General Business,1,9
+9,7,General News & Opinion,9,9
+9,7,General Reference & Learning,271,9
+9,7,General Shopping,244,9
+9,7,General Utilities,46,9
+9,7,Operations,43,9
+9,7,Search,213,9
+9,7,Uncategorized,68,9
+9,10,Browsers,9,9
+9,10,Email,7,9
+9,10,General Business,1441,9
+9,10,General Entertainment,201,9
+9,10,General Reference & Learning,206,9
+9,10,General Shopping,18,9
+9,10,General Utilities,22,9
+9,10,Intelligence,12,9
+9,10,Music,47,9
+9,10,Presentation,136,9
+9,10,Search,13,9
+9,10,Uncategorized,23,9
+9,10,Writing,2,9
+9,11,Browsers,17,9
+9,11,Calendars,159,9
+9,11,Engineering & Technology,54,9
+9,11,General Business,2481,9
+9,11,General Reference & Learning,66,9
+9,11,General Utilities,20,9
+9,11,Instant Message,132,9
+9,11,Presentation,2,9
+9,11,Project Management,75,9
+9,11,Science & Technology,9,9
+9,11,Search,14,9
+9,11,Uncategorized,117,9
+9,11,Voice Chat,6,9
+9,12,Browsers,14,9
+9,12,General Business,1701,9
+9,12,General Reference & Learning,185,9
+9,12,Instant Message,27,9
+9,12,Search,8,9
+9,12,Uncategorized,3,9
+9,12,Writing,315,9
+9,13,Browsers,21,9
+9,13,Calendars,98,9
+9,13,Email,914,9
+9,13,General Reference & Learning,804,9
+9,13,General Shopping,131,9
+9,13,General Social Networking,126,9
+9,13,General Utilities,332,9
+9,13,Instant Message,75,9
+9,13,Intelligence,21,9
+9,13,Uncategorized,691,9
+9,13,Voice Chat,89,9
+9,14,Browsers,20,9
+9,14,Calendars,29,9
+9,14,General Business,1,9
+9,14,General News & Opinion,47,9
+9,14,General Reference & Learning,1799,9
+9,14,General Social Networking,341,9
+9,14,General Software Development,49,9
+9,14,General Utilities,73,9
+9,14,Instant Message,4,9
+9,14,Project Management,73,9
+9,14,Search,13,9
+9,14,Uncategorized,583,9
+9,14,Writing,218,9
+9,15,Browsers,17,9
+9,15,Calendars,85,9
+9,15,General Business,1062,9
+9,15,General Entertainment,202,9
+9,15,General News & Opinion,74,9
+9,15,General Reference & Learning,69,9
+9,15,General Shopping,2,9
+9,15,General Social Networking,1,9
+9,15,General Software Development,3,9
+9,15,General Utilities,35,9
+9,15,Instant Message,41,9
+9,15,Project Management,22,9
+9,15,Search,57,9
+9,15,Uncategorized,735,9
+9,15,Voice Chat,11,9
+9,16,Calendars,100,9
+9,16,General Business,3,9
+9,16,General Reference & Learning,7,9
+9,17,Calendars,22,9
+9,17,Engineering & Technology,42,9
+9,17,General Business,1328,9
+9,17,General News & Opinion,557,9
+9,17,General Reference & Learning,5,9
+9,17,Instant Message,7,9
+9,17,Project Management,100,9
+9,17,Uncategorized,14,9
+9,17,Writing,11,9
+9,18,Calendars,109,9
+9,18,General Business,2108,9
+9,18,General Utilities,91,9
+9,18,Uncategorized,1264,9
+9,18,Writing,25,9
+9,19,General Business,1278,9
+9,19,General Utilities,64,9
+9,19,Video,44,9
+9,20,Browsers,1,9
+9,20,General Business,7,9
+9,20,Music,59,9
+9,20,Video,3316,9
+9,21,General Utilities,43,9
+9,21,Video,2606,9
+10,7,Calendars,7,9
+10,7,General Business,6,9
+10,7,General Utilities,34,9
+10,7,Instant Message,25,9
+10,8,Calendars,10,9
+10,8,General Business,192,9
+10,8,General Utilities,33,9
+10,8,Writing,1,9
+10,10,Browsers,9,9
+10,10,Calendars,45,9
+10,10,General Business,126,9
+10,10,General Entertainment,72,9
+10,10,General News & Opinion,34,9
+10,10,General Reference & Learning,78,9
+10,10,General Shopping,4,9
+10,10,General Software Development,22,9
+10,10,General Utilities,175,9
+10,10,Instant Message,113,9
+10,10,Presentation,3,9
+10,10,Project Management,28,9
+10,10,Uncategorized,112,9
+10,10,Writing,347,9
+10,11,Browsers,7,9
+10,11,General Business,181,9
+10,11,General Reference & Learning,39,9
+10,11,Instant Message,1742,9
+10,11,Intelligence,8,9
+10,11,Search,8,9
+10,11,Uncategorized,441,9
+10,11,Writing,1171,9
+10,12,Browsers,7,9
+10,12,General Business,969,9
+10,12,General Reference & Learning,170,9
+10,12,General Utilities,38,9
+10,12,Instant Message,15,9
+10,12,Project Management,66,9
+10,12,Search,6,9
+10,13,General Reference & Learning,16,9
+10,13,General Utilities,34,9
+10,13,Project Management,183,9
+10,13,Uncategorized,95,9
+10,14,Browsers,4,9
+10,14,Calendars,247,9
+10,14,Email,1098,9
+10,14,Engineering & Technology,122,9
+10,14,General Entertainment,63,9
+10,14,General Reference & Learning,274,9
+10,14,General Utilities,28,9
+10,14,Instant Message,55,9
+10,14,Project Management,230,9
+10,14,Search,2,9
+10,14,Uncategorized,709,9
+10,14,Writing,48,9
+10,15,Browsers,9,9
+10,15,Calendars,204,9
+10,15,Email,54,9
+10,15,Engineering & Technology,11,9
+10,15,General Business,424,9
+10,15,General Entertainment,19,9
+10,15,Instant Message,76,9
+10,15,Intelligence,134,9
+10,15,Project Management,247,9
+10,15,Search,3,9
+10,15,Uncategorized,929,9
+10,15,Writing,1,9
+10,17,Accounting,1,9
+10,17,Browsers,17,9
+10,17,Email,89,9
+10,17,General Business,79,9
+10,17,General Entertainment,71,9
+10,17,General News & Opinion,146,9
+10,17,General Reference & Learning,381,9
+10,17,General Utilities,91,9
+10,17,Instant Message,91,9
+10,17,Intelligence,26,9
+10,17,Internet Utilities,6,9
+10,17,Music,5,9
+10,17,Project Management,17,9
+10,17,Search,412,9
+10,17,Uncategorized,175,9
+10,17,Writing,697,9
+10,18,Calendars,9,9
+10,18,General Utilities,18,9
+10,18,Uncategorized,475,9
+10,18,Voice Chat,5,9
+10,18,Writing,1666,9
+10,19,General Reference & Learning,11,9
+10,19,General Utilities,32,9
+10,19,Writing,640,9
+10,20,Browsers,9,9
+10,20,General Business,113,9
+10,20,General Social Networking,112,9
+10,20,General Utilities,32,9
+10,20,Uncategorized,567,9
+10,20,Writing,381,9
+10,21,Games,37,9
+10,21,General News & Opinion,41,9
+10,21,General Reference & Learning,7,9
+10,21,General Social Networking,1610,9
+10,21,Search,147,9
+10,21,Uncategorized,260,9
+10,21,Video,1,9
+10,22,Browsers,3,9
+10,22,Email,97,9
+10,22,General News & Opinion,5,9
+10,22,General Social Networking,16,9
+10,22,General Utilities,17,9
+10,22,Search,9,9
+10,22,Uncategorized,14,9
+10,22,Video,57,9
+10,23,General Business,6,9
+10,23,General Entertainment,8,9
+10,23,General News & Opinion,25,9
+10,23,General Reference & Learning,30,9
+10,23,General Software Development,41,9
+10,23,General Utilities,15,9
+10,23,Internet Utilities,220,9
+10,23,Uncategorized,893,9
+11,0,Browsers,7,9
+11,0,Calendars,18,9
+11,0,Email,219,9
+11,0,General Business,160,9
+11,0,General Entertainment,2,9
+11,0,General News & Opinion,1,9
+11,0,General Reference & Learning,511,9
+11,0,General Social Networking,18,9
+11,0,General Utilities,170,9
+11,0,Health & Medicine,91,9
+11,0,Intelligence,236,9
+11,0,Science & Technology,15,9
+11,0,Search,136,9
+11,0,Uncategorized,851,9
+11,1,Browsers,13,9
+11,1,Email,12,9
+11,1,Games,374,9
+11,1,General Business,32,9
+11,1,General News & Opinion,638,9
+11,1,General Social Networking,561,9
+11,1,General Utilities,33,9
+11,1,Search,1,9
+11,1,Uncategorized,36,9
+11,1,Writing,23,9
+11,6,Browsers,3,9
+11,6,Email,27,9
+11,6,General Business,1,9
+11,6,General Utilities,32,9
+11,6,Writing,17,9
+11,10,Calendars,5,9
+11,10,General Business,723,9
+11,10,General Reference & Learning,269,9
+11,10,General Utilities,47,9
+11,10,Project Management,568,9
+11,10,Writing,35,9
+11,11,General Business,982,9
+11,11,General Utilities,53,9
+11,11,Instant Message,13,9
+11,11,Intelligence,724,9
+11,12,Browsers,4,9
+11,12,Engineering & Technology,10,9
+11,12,General Business,3,9
+11,12,General Entertainment,234,9
+11,12,General News & Opinion,8,9
+11,12,General Social Networking,11,9
+11,12,Instant Message,321,9
+11,12,Intelligence,29,9
+11,12,Uncategorized,3,9
+11,12,Writing,43,9
+11,13,Browsers,44,9
+11,13,General Reference & Learning,489,9
+11,13,General Utilities,19,9
+11,13,Instant Message,4,9
+11,13,Intelligence,74,9
+11,13,Search,44,9
+11,13,Uncategorized,1337,9
+11,13,Voice Chat,30,9
+11,13,Writing,12,9
+11,14,Browsers,59,9
+11,14,Engineering & Technology,30,9
+11,14,General Business,30,9
+11,14,General Entertainment,369,9
+11,14,General News & Opinion,331,9
+11,14,General Utilities,52,9
+11,14,Instant Message,3,9
+11,14,Intelligence,23,9
+11,14,Search,33,9
+11,14,Uncategorized,653,9
+11,14,Voice Chat,160,9
+11,14,Writing,768,9
+11,15,General Entertainment,1574,9
+11,15,General Reference & Learning,5,9
+11,15,Intelligence,5,9
+11,15,Uncategorized,15,9
+11,15,Writing,48,9
+11,16,Browsers,28,9
+11,16,Calendars,15,9
+11,16,Email,658,9
+11,16,Engineering & Technology,9,9
+11,16,General Business,488,9
+11,16,General Entertainment,24,9
+11,16,General Reference & Learning,2,9
+11,16,General Utilities,19,9
+11,16,Intelligence,60,9
+11,16,Uncategorized,633,9
+11,16,Writing,389,9
+11,17,Email,285,9
+11,18,Email,284,9
+11,18,General Social Networking,1,9
+11,18,General Utilities,42,9
+11,18,Uncategorized,84,9
+11,19,Browsers,17,9
+11,19,Email,260,9
+11,19,Engineering & Technology,32,9
+11,19,General Entertainment,176,9
+11,19,General Reference & Learning,715,9
+11,19,General Social Networking,782,9
+11,19,General Utilities,72,9
+11,19,Intelligence,15,9
+11,19,Professional Networking,68,9
+11,19,Project Management,54,9
+11,19,Search,14,9
+11,19,Uncategorized,418,9
+11,19,Video,77,9
+11,19,Voice Chat,5,9
+11,20,Browsers,30,9
+11,20,Email,2,9
+11,20,Engineering & Technology,47,9
+11,20,General Business,4,9
+11,20,General Entertainment,35,9
+11,20,General News & Opinion,11,9
+11,20,General Reference & Learning,6,9
+11,20,General Shopping,54,9
+11,20,General Social Networking,731,9
+11,20,Internet Utilities,2,9
+11,20,Search,609,9
+11,20,Uncategorized,60,9
+11,20,Writing,517,9
+11,21,Browsers,4,9
+11,21,Email,251,9
+11,21,General Business,6,9
+11,21,General Entertainment,45,9
+11,21,General Reference & Learning,1,9
+11,21,General Shopping,36,9
+11,21,General Social Networking,178,9
+11,21,General Utilities,4,9
+11,21,Intelligence,10,9
+11,21,Writing,2468,9
+11,22,Browsers,22,9
+11,22,Email,421,9
+11,22,General Business,59,9
+11,22,General News & Opinion,55,9
+11,22,General Reference & Learning,1254,9
+11,22,General Social Networking,474,9
+11,22,General Utilities,5,9
+11,22,Project Management,24,9
+11,22,Search,163,9
+11,22,Uncategorized,48,9
+11,22,Voice Chat,3,9
+11,22,Writing,1065,9
+11,23,Browsers,6,9
+11,23,Email,75,9
+11,23,General Business,4,9
+11,23,General Entertainment,9,9
+11,23,General News & Opinion,271,9
+11,23,General Reference & Learning,148,9
+11,23,General Utilities,30,9
+11,23,Uncategorized,1,9
+11,23,Writing,23,9
+12,0,Browsers,23,9
+12,0,Email,78,9
+12,0,General Entertainment,6,9
+12,0,General Social Networking,1,9
+12,0,Search,52,9
+12,0,Uncategorized,328,9
+12,0,Video,150,9
+12,1,Browsers,5,9
+12,1,Email,3,9
+12,1,General Social Networking,81,9
+12,1,General Utilities,32,9
+12,1,Video,2,9
+12,8,Browsers,2,9
+12,8,Email,264,9
+12,8,General News & Opinion,80,9
+12,8,General Reference & Learning,24,9
+12,8,General Social Networking,254,9
+12,8,General Utilities,19,9
+12,8,Instant Message,12,9
+12,8,Video,3,9
+12,20,Video,1068,9
+12,21,Browsers,4,9
+12,21,Email,58,9
+12,21,General Social Networking,2,9
+12,21,General Utilities,53,9
+12,21,Uncategorized,17,9
+12,21,Video,259,9
+12,22,Browsers,24,9
+12,22,General Social Networking,322,9
+12,22,General Utilities,20,9
+12,22,Search,108,9
+12,22,Uncategorized,18,9
+12,23,Browsers,36,9
+12,23,General Social Networking,202,9
+12,23,General Utilities,32,9
+12,23,Travel & Outdoors,163,9
+12,23,Uncategorized,17,9
+13,8,Browsers,9,9
+13,8,General Social Networking,192,9
+13,8,Uncategorized,6,9
+13,9,Browsers,34,9
+13,9,General Social Networking,742,9
+13,9,General Utilities,42,9
+13,9,Search,101,9
+13,9,Uncategorized,143,9
+13,9,Video,1305,9
+13,10,Browsers,30,9
+13,10,General News & Opinion,558,9
+13,10,General Social Networking,561,9
+13,10,General Utilities,119,9
+13,10,Search,414,9
+13,10,Uncategorized,182,9
+13,11,Uncategorized,1,9
+13,12,Browsers,19,9
+13,12,General News & Opinion,10,9
+13,12,General Utilities,13,9
+13,12,Video,456,9
+13,13,Browsers,27,9
+13,13,Email,23,9
+13,13,General News & Opinion,940,9
+13,13,General Reference & Learning,45,9
+13,13,General Social Networking,538,9
+13,13,General Utilities,52,9
+13,13,Search,121,9
+13,13,Uncategorized,262,9
+13,13,Video,768,9
+13,14,Browsers,33,9
+13,14,General News & Opinion,322,9
+13,14,General Shopping,387,9
+13,14,General Utilities,33,9
+13,14,Search,37,9
+13,14,Video,156,9
+13,15,Browsers,28,9
+13,15,Email,15,9
+13,15,General Social Networking,119,9
+13,15,General Utilities,32,9
+13,15,Health & Medicine,197,9
+13,15,Search,121,9
+13,15,Uncategorized,142,9
+13,15,Video,1508,9
+13,16,Browsers,14,9
+13,16,General Social Networking,201,9
+13,16,General Utilities,32,9
+13,16,Health & Medicine,15,9
+13,16,Uncategorized,642,9
+13,16,Video,1,9
+13,17,Browsers,63,9
+13,17,Search,39,9
+13,17,Video,976,9
+13,18,Video,558,9
+14,7,Browsers,28,9
+14,7,General Utilities,2,9
+14,7,Intelligence,17,9
+14,7,Search,107,9
+14,7,Uncategorized,74,9
+14,7,Video,672,9
+14,8,Browsers,33,9
+14,8,Email,7,9
+14,8,General News & Opinion,18,9
+14,8,General Reference & Learning,28,9
+14,8,General Shopping,2,9
+14,8,General Utilities,1011,9
+14,8,Instant Message,22,9
+14,8,Intelligence,330,9
+14,8,Search,296,9
+14,8,Uncategorized,544,9
+14,8,Video,6,9
+14,9,Browsers,10,9
+14,9,General Business,1,9
+14,9,General News & Opinion,6,9
+14,9,General Shopping,1296,9
+14,9,General Utilities,53,9
+14,9,Intelligence,34,9
+14,9,Search,7,9
+14,9,Travel & Outdoors,1,9
+14,9,Uncategorized,10,9
+14,9,Video,2,9
+14,12,Browsers,120,9
+14,12,Calendars,8,9
+14,12,Design & Planning,110,9
+14,12,Email,1,9
+14,12,General Business,566,9
+14,12,General Entertainment,377,9
+14,12,General Reference & Learning,855,9
+14,12,General Utilities,45,9
+14,12,Instant Message,11,9
+14,12,Intelligence,3,9
+14,12,Presentation,383,9
+14,12,Project Management,226,9
+14,12,Search,160,9
+14,12,Uncategorized,133,9
+14,12,Voice Chat,8,9
+14,13,Browsers,4,9
+14,13,Calendars,9,9
+14,13,Email,1262,9
+14,13,General Business,21,9
+14,13,General News & Opinion,2,9
+14,13,General Reference & Learning,126,9
+14,13,General Shopping,2,9
+14,13,General Social Networking,2,9
+14,13,General Utilities,33,9
+14,13,Presentation,147,9
+14,13,Search,5,9
+14,13,Uncategorized,166,9
+14,13,Voice Chat,5,9
+14,14,Browsers,32,9
+14,14,Email,578,9
+14,14,General Business,36,9
+14,14,General Entertainment,2,9
+14,14,General News & Opinion,172,9
+14,14,General Reference & Learning,254,9
+14,14,General Social Networking,70,9
+14,14,General Software Development,239,9
+14,14,General Utilities,166,9
+14,14,Instant Message,134,9
+14,14,Presentation,121,9
+14,14,Search,3,9
+14,14,Systems Operations,761,9
+14,14,Uncategorized,119,9
+14,15,Browsers,4,9
+14,15,Calendars,112,9
+14,15,General Business,107,9
+14,15,General Entertainment,1,9
+14,15,General News & Opinion,81,9
+14,15,General Reference & Learning,267,9
+14,15,General Social Networking,32,9
+14,15,General Utilities,39,9
+14,15,Intelligence,223,9
+14,15,Presentation,1793,9
+14,15,Project Management,1,9
+14,15,Uncategorized,186,9
+14,16,General Business,695,9
+14,16,General Reference & Learning,22,9
+14,16,General Utilities,12,9
+14,16,Presentation,258,9
+14,17,Browsers,3,9
+14,17,Email,166,9
+14,17,General Utilities,44,9
+14,17,Presentation,1995,9
+14,17,Uncategorized,1,9
+14,18,Browsers,35,9
+14,18,Calendars,77,9
+14,18,Email,1613,9
+14,18,General Business,92,9
+14,18,General News & Opinion,2,9
+14,18,General Reference & Learning,158,9
+14,18,General Social Networking,217,9
+14,18,General Utilities,67,9
+14,18,Search,14,9
+14,18,Uncategorized,720,9
+14,19,Email,54,9
+14,19,General Business,14,9
+14,19,General Utilities,33,9
+14,20,Email,159,9
+14,20,General Utilities,31,9
+14,20,Video,3,9
+14,21,Browsers,7,9
+14,21,Calendars,6,9
+14,21,General Reference & Learning,18,9
+14,21,General Social Networking,99,9
+14,21,Video,484,9
+14,22,Browsers,27,9
+14,22,Email,114,9
+14,22,Engineering & Technology,5,9
+14,22,General Business,3,9
+14,22,General Entertainment,45,9
+14,22,General News & Opinion,150,9
+14,22,General Reference & Learning,8,9
+14,22,General Social Networking,1179,9
+14,22,General Software Development,125,9
+14,22,General Utilities,33,9
+14,22,Science & Technology,44,9
+14,22,Search,41,9
+14,22,Uncategorized,316,9
+14,22,Video,79,9
+15,7,Browsers,15,9
+15,7,Calendars,126,9
+15,7,Email,5,9
+15,7,General Business,144,9
+15,7,General Entertainment,16,9
+15,7,General News & Opinion,1,9
+15,7,General Reference & Learning,2,9
+15,7,General Shopping,151,9
+15,7,General Social Networking,5,9
+15,7,General Software Development,13,9
+15,7,General Utilities,65,9
+15,7,Project Management,28,9
+15,7,Science & Technology,2,9
+15,7,Uncategorized,114,9
+15,7,Video,1,9
+15,7,Writing,2,9
+15,8,Browsers,2,9
+15,8,Calendars,10,9
+15,8,General Business,135,9
+15,8,General Entertainment,19,9
+15,8,General Shopping,72,9
+15,8,General Software Development,7,9
+15,8,Intelligence,1,9
+15,8,Project Management,33,9
+15,8,Uncategorized,6,9
+15,9,Browsers,4,9
+15,9,General Business,3,9
+15,9,General Entertainment,27,9
+15,9,General Reference & Learning,647,9
+15,9,General Shopping,57,9
+15,9,General Utilities,319,9
+15,9,Instant Message,1,9
+15,9,Intelligence,676,9
+15,9,Project Management,69,9
+15,9,Uncategorized,30,9
+15,10,Browsers,14,9
+15,10,Email,3,9
+15,10,General Business,4,9
+15,10,General Reference & Learning,258,9
+15,10,General Shopping,13,9
+15,10,General Social Networking,43,9
+15,10,General Software Development,27,9
+15,10,General Utilities,21,9
+15,10,Instant Message,1756,9
+15,10,Intelligence,12,9
+15,10,Search,7,9
+15,10,Voice Chat,15,9
+15,11,Browsers,42,9
+15,11,General News & Opinion,108,9
+15,11,General Reference & Learning,2314,9
+15,11,General Utilities,32,9
+15,11,Intelligence,2,9
+15,11,Project Management,29,9
+15,11,Search,11,9
+15,11,Uncategorized,194,9
+15,11,Voice Chat,50,9
+15,12,General Reference & Learning,142,9
+15,12,General Social Networking,7,9
+15,12,General Utilities,32,9
+15,13,Browsers,17,9
+15,13,Calendars,169,9
+15,13,Email,634,9
+15,13,Engineering & Technology,28,9
+15,13,General Business,17,9
+15,13,General Reference & Learning,47,9
+15,13,General Social Networking,281,9
+15,13,General Utilities,18,9
+15,13,Search,37,9
+15,13,Uncategorized,85,9
+15,14,Browsers,10,9
+15,14,Calendars,119,9
+15,14,Email,727,9
+15,14,General Business,99,9
+15,14,General Entertainment,6,9
+15,14,General News & Opinion,55,9
+15,14,General Reference & Learning,1543,9
+15,14,General Social Networking,116,9
+15,14,General Utilities,34,9
+15,14,Uncategorized,55,9
+15,14,Voice Chat,5,9
+15,15,Browsers,20,9
+15,15,Calendars,24,9
+15,15,Email,472,9
+15,15,Engineering & Technology,1,9
+15,15,General Business,497,9
+15,15,General Entertainment,30,9
+15,15,General News & Opinion,10,9
+15,15,General Reference & Learning,12,9
+15,15,General Shopping,730,9
+15,15,General Software Development,3,9
+15,15,General Utilities,5,9
+15,15,Intelligence,2,9
+15,15,Internet Utilities,6,9
+15,15,Project Management,25,9
+15,15,Search,29,9
+15,15,Uncategorized,135,9
+15,16,Browsers,33,9
+15,16,Email,18,9
+15,16,General Business,320,9
+15,16,General Entertainment,24,9
+15,16,General News & Opinion,72,9
+15,16,General Shopping,113,9
+15,16,General Software Development,2480,9
+15,16,Search,159,9
+15,16,Uncategorized,3,9
+15,17,General Reference & Learning,12,9
+15,17,General Software Development,934,9
+15,17,General Utilities,34,9
+15,17,Instant Message,227,9
+15,18,General Reference & Learning,431,9
+15,18,General Utilities,31,9
+15,18,Instant Message,20,9
+15,18,Intelligence,32,9
+15,18,Video,3,9
+15,19,Browsers,18,9
+15,19,Email,124,9
+15,19,General Reference & Learning,243,9
+15,19,General Software Development,7,9
+15,19,General Utilities,140,9
+15,19,Instant Message,55,9
+15,19,Video,2468,9
+15,20,Video,2141,9
+15,21,Browsers,49,9
+15,21,Email,1,9
+15,21,General Utilities,31,9
+15,21,Instant Message,6,9
+15,21,Video,135,9
+15,22,Browsers,56,9
+15,22,Email,666,9
+15,22,General Entertainment,44,9
+15,22,General Reference & Learning,1,9
+15,22,General Shopping,752,9
+15,22,General Social Networking,36,9
+15,22,General Utilities,115,9
+15,22,Search,237,9
+15,22,Uncategorized,77,9
+16,8,Browsers,7,9
+16,8,Email,7,9
+16,8,General Reference & Learning,363,9
+16,8,General Utilities,19,9
+16,8,Instant Message,1,9
+16,11,General Entertainment,8,9
+16,11,General Reference & Learning,33,9
+16,11,General Utilities,33,9
+16,11,Instant Message,306,9
+16,12,General Entertainment,24,9
+16,12,General News & Opinion,29,9
+16,12,General Reference & Learning,74,9
+16,12,General Shopping,39,9
+16,12,General Social Networking,5,9
+16,12,Instant Message,24,9
+16,12,Search,4,9
+16,12,Voice Chat,10,9
+16,13,Browsers,26,9
+16,13,Calendars,4,9
+16,13,Email,24,9
+16,13,Engineering & Technology,147,9
+16,13,General Entertainment,9,9
+16,13,General Reference & Learning,4,9
+16,13,General Shopping,21,9
+16,13,General Software Development,206,9
+16,13,General Utilities,37,9
+16,13,Search,796,9
+16,13,Uncategorized,566,9
+16,14,Browsers,12,9
+16,14,General Entertainment,5,9
+16,14,General Reference & Learning,159,9
+16,14,General Shopping,865,9
+16,14,General Social Networking,216,9
+16,14,General Software Development,437,9
+16,14,General Utilities,19,9
+16,14,Instant Message,68,9
+16,14,Uncategorized,315,9
+16,15,Browsers,27,9
+16,15,Email,850,9
+16,15,Engineering & Technology,342,9
+16,15,General Business,347,9
+16,15,General News & Opinion,6,9
+16,15,General Reference & Learning,98,9
+16,15,General Shopping,99,9
+16,15,General Software Development,43,9
+16,15,General Utilities,90,9
+16,15,Instant Message,333,9
+16,15,Project Management,149,9
+16,15,Search,170,9
+16,15,Uncategorized,192,9
+16,16,Email,125,9
+16,16,General Social Networking,10,9
+16,16,General Utilities,32,9
+16,22,Browsers,17,9
+16,22,Email,240,9
+16,22,General Reference & Learning,237,9
+16,22,General Social Networking,776,9
+16,22,General Utilities,33,9
+16,22,Science & Technology,25,9
+16,22,Search,20,9
+16,22,Uncategorized,13,9
+16,22,Video,522,9
+16,23,Browsers,330,9
+16,23,Email,18,9
+16,23,Engineering & Technology,238,9
+16,23,General Reference & Learning,6,9
+16,23,General Social Networking,27,9
+16,23,General Utilities,32,9
+16,23,Instant Message,1,9
+16,23,Science & Technology,63,9
+16,23,Search,15,9
+16,23,Video,300,9
+17,0,Browsers,3,9
+17,0,Email,37,9
+17,0,Engineering & Technology,2,9
+17,0,General News & Opinion,15,9
+17,0,General Reference & Learning,38,9
+17,0,General Shopping,4,9
+17,0,General Utilities,32,9
+17,0,Instant Message,59,9
+17,0,Science & Technology,11,9
+17,0,Uncategorized,10,9
+17,8,Browsers,4,9
+17,8,Engineering & Technology,78,9
+17,8,General Reference & Learning,62,9
+17,8,General Shopping,10,9
+17,8,General Software Development,4,9
+17,8,Graphic Design,45,9
+17,8,Instant Message,1122,9
+17,8,Science & Technology,4,9
+17,8,Search,4,9
+17,8,Uncategorized,113,9
+17,8,Voice Chat,75,9
+17,9,Browsers,4,9
+17,9,Engineering & Technology,2,9
+17,9,General News & Opinion,2,9
+17,9,General Social Networking,6,9
+17,9,General Software Development,11,9
+17,9,General Utilities,32,9
+17,9,Instant Message,40,9
+17,9,Science & Technology,1,9
+17,9,Uncategorized,36,9
+17,11,Engineering & Technology,8,9
+17,11,General Reference & Learning,1,9
+17,11,Instant Message,26,9
+17,11,Uncategorized,28,9
+17,11,Writing,1,9
+17,12,Browsers,20,9
+17,12,Engineering & Technology,46,9
+17,12,General Entertainment,73,9
+17,12,General Shopping,108,9
+17,12,General Social Networking,2,9
+17,12,General Software Development,6,9
+17,12,Instant Message,101,9
+17,12,Internet Utilities,33,9
+17,12,Science & Technology,47,9
+17,12,Search,9,9
+17,12,Uncategorized,232,9
+17,12,Writing,376,9
+17,13,Browsers,4,9
+17,13,Calendars,31,9
+17,13,Email,821,9
+17,13,General Entertainment,6,9
+17,13,General News & Opinion,3,9
+17,13,General Utilities,4,9
+17,13,Instant Message,46,9
+17,13,Writing,1191,9
+17,14,Browsers,2,9
+17,14,Calendars,9,9
+17,14,Email,604,9
+17,14,General Utilities,33,9
+17,14,Uncategorized,4,9
+17,14,Voice Chat,5,9
+17,14,Writing,1656,9
+17,15,Browsers,31,9
+17,15,Calendars,25,9
+17,15,Email,428,9
+17,15,General Business,18,9
+17,15,General Utilities,39,9
+17,15,Instant Message,29,9
+17,15,Search,114,9
+17,15,Uncategorized,344,9
+17,16,Email,128,9
+17,16,General Utilities,32,9
+17,16,Science & Technology,2,9
+17,20,Browsers,5,9
+17,20,Email,25,9
+17,20,Engineering & Technology,22,9
+17,20,General News & Opinion,6,9
+17,20,General Reference & Learning,9,9
+17,20,General Social Networking,204,9
+17,20,General Utilities,42,9
+17,20,Instant Message,65,9
+17,20,Project Management,3,9
+17,20,Science & Technology,219,9
+17,20,Search,43,9
+17,20,Uncategorized,30,9
+17,21,General Shopping,11,9
+17,21,General Utilities,33,9
+17,22,Browsers,23,9
+17,22,Email,143,9
+17,22,Engineering & Technology,4,9
+17,22,General Business,58,9
+17,22,General News & Opinion,53,9
+17,22,General Shopping,530,9
+17,22,General Social Networking,8,9
+17,22,Science & Technology,9,9
+17,22,Search,49,9
+17,22,Travel & Outdoors,131,9
+17,23,Browsers,7,9
+17,23,General News & Opinion,805,9
+17,23,General Shopping,104,9
+17,23,General Social Networking,337,9
+17,23,Intelligence,1,9
+17,23,Search,71,9
+17,23,Travel & Outdoors,4,9
+18,11,Browsers,31,9
+18,11,Calendars,5,9
+18,11,Email,4,9
+18,11,Engineering & Technology,98,9
+18,11,General Business,4,9
+18,11,General News & Opinion,24,9
+18,11,General Reference & Learning,154,9
+18,11,General Shopping,3,9
+18,11,General Software Development,10,9
+18,11,General Utilities,10,9
+18,11,Instant Message,16,9
+18,11,Intelligence,1090,9
+18,11,Project Management,565,9
+18,11,Search,27,9
+18,11,Uncategorized,23,9
+18,11,Writing,176,9
+18,14,Browsers,13,9
+18,14,Email,24,9
+18,14,General Business,18,9
+18,14,General Entertainment,14,9
+18,14,General Reference & Learning,89,9
+18,14,General Shopping,487,9
+18,14,General Utilities,4,9
+18,14,Instant Message,9,9
+18,14,Intelligence,75,9
+18,14,Search,4,9
+18,14,Writing,44,9
+18,15,Email,204,9
+18,15,Writing,28,9
+18,16,Email,33,9
+18,16,General News & Opinion,18,9
+18,16,General Utilities,1,9
+18,16,Internet Utilities,4,9
+18,16,Search,7,9
+18,16,Writing,9,9
+18,17,Browsers,3,9
+18,17,Calendars,14,9
+18,17,Email,210,9
+18,17,General Entertainment,5,9
+18,17,General News & Opinion,150,9
+18,17,General Reference & Learning,2,9
+18,17,General Shopping,3,9
+18,17,General Social Networking,1,9
+18,17,Intelligence,4,9
+18,17,Internet Utilities,76,9
+18,17,Writing,467,9
+18,20,Browsers,7,9
+18,20,Email,51,9
+18,20,General Social Networking,167,9
+18,20,General Utilities,37,9
+18,20,Video,1,9
+18,20,Writing,8,9
+18,21,Browsers,31,9
+18,21,General Social Networking,4,9
+18,21,General Utilities,11,9
+18,21,Uncategorized,1,9
+18,21,Video,1825,9
+18,22,Browsers,10,9
+18,22,Email,239,9
+18,22,General Communication & Scheduling,123,9
+18,22,General News & Opinion,3,9
+18,22,General Reference & Learning,9,9
+18,22,General Shopping,39,9
+18,22,General Social Networking,11,9
+18,22,General Software Development,5,9
+18,22,General Utilities,72,9
+18,22,Intelligence,1,9
+18,22,Search,13,9
+18,22,Uncategorized,729,9
+18,22,Video,7,9
+18,22,Writing,1,9
+19,11,General Reference & Learning,28,9
+19,11,General Utilities,17,9
+19,11,Intelligence,1725,9
+19,11,Project Management,76,9
+19,11,Writing,645,9
+19,12,General News & Opinion,31,9
+19,12,General Utilities,106,9
+19,12,Intelligence,100,9
+19,12,Project Management,197,9
+20,13,Browsers,27,9
+20,13,General News & Opinion,1302,9
+20,13,General Reference & Learning,18,9
+20,13,General Shopping,4,9
+20,13,General Social Networking,299,9
+20,13,General Utilities,31,9
+20,13,Instant Message,53,9
+20,13,Intelligence,1,9
+20,13,Project Management,6,9
+20,13,Uncategorized,11,9
+20,16,Browsers,30,9
+20,16,General Entertainment,14,9
+20,16,General News & Opinion,46,9
+20,16,General Reference & Learning,6,9
+20,16,General Shopping,623,9
+20,16,General Social Networking,361,9
+20,16,General Utilities,33,9
+20,16,Instant Message,77,9
+20,16,Intelligence,302,9
+20,16,Search,14,9
+20,16,Uncategorized,105,9
+20,16,Voice Chat,8,9
+20,16,Writing,16,9
+20,17,Browsers,27,9
+20,17,Email,17,9
+20,17,Engineering & Technology,126,9
+20,17,General Business,1,9
+20,17,General Entertainment,15,9
+20,17,General Reference & Learning,4,9
+20,17,General Shopping,17,9
+20,17,General Social Networking,6,9
+20,17,General Software Development,35,9
+20,17,General Utilities,65,9
+20,17,Intelligence,2,9
+20,17,Science & Technology,4,9
+20,17,Search,185,9
+20,17,Uncategorized,15,9
+20,17,Writing,87,9
+20,18,Browsers,2,9
+20,18,General Reference & Learning,1,9
+20,18,General Software Development,3,9
+20,19,Browsers,66,9
+20,19,Design & Planning,183,9
+20,19,Email,9,9
+20,19,General Reference & Learning,869,9
+20,19,General Utilities,78,9
+20,19,Search,18,9
+20,19,Video,398,9
+20,20,Browsers,22,9
+20,20,Design & Planning,9,9
+20,20,General Reference & Learning,431,9
+20,20,General Shopping,3,9
+20,20,General Social Networking,91,9
+20,20,General Utilities,37,9
+20,20,Uncategorized,4,9
+20,20,Video,1668,9
+20,21,Browsers,6,9
+20,21,General Reference & Learning,102,9
+20,21,Search,18,9
+20,21,Video,111,9
+20,22,Browsers,12,9
+20,22,General News & Opinion,334,9
+20,22,General Reference & Learning,711,9
+20,22,Search,128,9
+20,22,Video,2414,9
+20,23,Video,3600,9
+21,0,Video,902,9
+21,8,Browsers,29,9
+21,8,Design & Planning,1,9
+21,8,Email,2,9
+21,8,General Business,1,9
+21,8,General News & Opinion,2,9
+21,8,General Reference & Learning,301,9
+21,8,General Shopping,33,9
+21,8,General Utilities,31,9
+21,8,Instant Message,221,9
+21,8,Project Management,27,9
+21,8,Search,7,9
+21,8,Uncategorized,5,9
+21,8,Video,19,9
+21,9,General Business,50,9
+21,9,General Reference & Learning,87,9
+21,9,General Shopping,14,9
+21,9,General Software Development,3,9
+21,9,Writing,20,9
+21,11,Administration,1,9
+21,11,Browsers,15,9
+21,11,General Business,5,9
+21,11,General Reference & Learning,74,9
+21,11,General Utilities,34,9
+21,11,Instant Message,43,9
+21,11,Writing,12,9
+21,13,Administration,214,9
+21,13,Browsers,23,9
+21,13,Email,101,9
+21,13,General Business,19,9
+21,13,General News & Opinion,14,9
+21,13,General Reference & Learning,51,9
+21,13,General Social Networking,65,9
+21,13,General Utilities,24,9
+21,13,Instant Message,3,9
+21,13,Project Management,16,9
+21,13,Search,18,9
+21,14,Browsers,26,9
+21,14,Calendars,65,9
+21,14,Email,37,9
+21,14,General Business,93,9
+21,14,General Entertainment,54,9
+21,14,General Reference & Learning,150,9
+21,14,General Social Networking,227,9
+21,14,General Utilities,42,9
+21,14,Instant Message,464,9
+21,14,Intelligence,31,9
+21,14,Presentation,147,9
+21,14,Search,68,9
+21,14,Systems Operations,2,9
+21,14,Voice Chat,17,9
+21,15,Browsers,18,9
+21,15,Calendars,63,9
+21,15,Email,33,9
+21,15,General Business,31,9
+21,15,General News & Opinion,126,9
+21,15,General Reference & Learning,766,9
+21,15,General Utilities,5,9
+21,15,Instant Message,10,9
+21,15,Presentation,1719,9
+21,15,Search,14,9
+21,15,Uncategorized,71,9
+21,15,Writing,2,9
+21,16,Browsers,5,9
+21,16,General Business,145,9
+21,16,General Reference & Learning,1228,9
+21,16,General Utilities,15,9
+21,16,Presentation,279,9
+21,17,Calendars,49,9
+21,17,Email,778,9
+21,17,General Business,1,9
+21,17,General News & Opinion,12,9
+21,17,General Utilities,15,9
+21,17,Presentation,658,9
+21,18,Browsers,16,9
+21,18,Calendars,33,9
+21,18,Email,305,9
+21,18,General Business,617,9
+21,18,General News & Opinion,288,9
+21,18,General Reference & Learning,315,9
+21,18,General Social Networking,18,9
+21,18,General Utilities,42,9
+21,18,Instant Message,19,9
+21,18,Uncategorized,188,9
+21,19,Calendars,42,9
+21,19,Email,225,9
+21,19,General Business,771,9
+21,19,General Entertainment,22,9
+21,19,General News & Opinion,427,9
+21,19,General Reference & Learning,2,9
+21,19,General Utilities,80,9
+21,19,Instant Message,14,9
+21,19,Search,7,9
+21,19,Uncategorized,8,9
+21,19,Writing,2,9
+22,10,Browsers,78,9
+22,10,Email,6,9
+22,10,General Business,12,9
+22,10,General Entertainment,70,9
+22,10,General News & Opinion,192,9
+22,10,General Reference & Learning,55,9
+22,10,General Utilities,101,9
+22,10,Instant Message,780,9
+22,10,Intelligence,1,9
+22,10,Project Management,57,9
+22,10,Search,124,9
+22,10,Uncategorized,121,9
+22,10,Voice Chat,234,9
+22,10,Writing,978,9
+22,11,Browsers,28,9
+22,11,Calendars,241,9
+22,11,General Business,2,9
+22,11,General Entertainment,38,9
+22,11,General News & Opinion,70,9
+22,11,Project Management,722,9
+22,11,Search,83,9
+22,11,Travel & Outdoors,1,9
+22,11,Uncategorized,248,9
+22,11,Voice Chat,426,9
+22,11,Writing,874,9
+22,12,Browsers,18,9
+22,12,Email,2,9
+22,12,General Utilities,34,9
+22,12,Instant Message,128,9
+22,12,Intelligence,102,9
+22,12,Project Management,75,9
+22,12,Search,140,9
+22,12,Travel & Outdoors,493,9
+22,12,Uncategorized,376,9
+22,13,Browsers,51,9
+22,13,Email,458,9
+22,13,Engineering & Technology,9,9
+22,13,General Business,7,9
+22,13,General News & Opinion,7,9
+22,13,General Reference & Learning,53,9
+22,13,General Social Networking,96,9
+22,13,Intelligence,17,9
+22,13,Project Management,40,9
+22,13,Search,67,9
+22,13,Travel & Outdoors,1050,9
+22,13,Uncategorized,807,9
+22,13,Writing,149,9
+22,14,Browsers,36,9
+22,14,Business,3,9
+22,14,Calendars,29,9
+22,14,Email,386,9
+22,14,Engineering & Technology,1,9
+22,14,General Business,359,9
+22,14,General Entertainment,32,9
+22,14,General News & Opinion,91,9
+22,14,General Reference & Learning,36,9
+22,14,General Utilities,63,9
+22,14,Project Management,26,9
+22,14,Search,281,9
+22,14,Travel & Outdoors,75,9
+22,14,Uncategorized,423,9
+22,14,Writing,2,9
+22,15,Email,45,9
+22,15,General Reference & Learning,2,9
+22,16,Browsers,13,9
+22,16,Email,288,9
+22,16,General Reference & Learning,382,9
+22,16,General Utilities,25,9
+22,16,Instant Message,61,9
+22,16,Intelligence,3,9
+22,16,Search,6,9
+22,16,Travel & Outdoors,13,9
+22,16,Uncategorized,118,9
+22,16,Voice Chat,10,9
+22,16,Writing,10,9
+22,17,Browsers,377,9
+22,17,Email,418,9
+22,17,General Reference & Learning,6,9
+22,17,General Utilities,17,9
+22,17,Search,40,9
+22,18,Browsers,6,9
+22,18,Email,441,9
+22,18,General Reference & Learning,2,9
+22,18,General Utilities,31,9
+22,18,Search,40,9
+22,18,Uncategorized,150,9
+22,19,Calendars,2,9
+22,19,Design & Planning,126,9
+22,19,Email,710,9
+22,19,General Business,658,9
+22,19,General Entertainment,7,9
+22,19,General News & Opinion,7,9
+22,19,General Reference & Learning,727,9
+22,20,Accounting,1,9
+22,20,Calendars,36,9
+22,20,General Business,2,9
+22,20,General Entertainment,4,9
+22,20,General Reference & Learning,3340,9
+22,20,General Utilities,13,9
+22,20,Intelligence,30,9
+22,20,Voice Chat,6,9
+22,21,Browsers,57,9
+22,21,Calendars,78,9
+22,21,Design & Planning,2,9
+22,21,Email,903,9
+22,21,General Business,128,9
+22,21,General Entertainment,5,9
+22,21,General News & Opinion,2,9
+22,21,General Reference & Learning,1179,9
+22,21,General Social Networking,18,9
+22,21,General Utilities,84,9
+22,21,Instant Message,306,9
+22,21,Internet Utilities,3,9
+22,21,Search,6,9
+22,21,Travel & Outdoors,345,9
+22,21,Video,1,9
+22,21,Voice Chat,11,9
+22,21,Writing,167,9
+22,22,Browsers,33,9
+22,22,Calendars,11,9
+22,22,General Utilities,4,9
+22,22,Project Management,9,9
+22,22,Search,24,9
+22,22,Video,751,9
+22,23,Browsers,3,9
+22,23,General Utilities,52,9
+22,23,Video,1457,9
+23,10,Browsers,146,9
+23,10,Employment,349,9
+23,10,General Reference & Learning,268,9
+23,10,Search,127,9
+23,10,Video,743,9
+23,11,Browsers,3,9
+23,11,General Utilities,70,9
+23,11,Video,2058,9
+23,12,Email,5,9
+23,12,General Utilities,70,9
+23,12,Video,143,9
+23,13,Browsers,73,9
+23,13,Calendars,115,9
+23,13,Email,1736,9
+23,13,Employment,2,9
+23,13,General Reference & Learning,42,9
+23,13,General Social Networking,14,9
+23,13,General Utilities,14,9
+23,13,Instant Message,119,9
+23,13,Intelligence,11,9
+23,13,Uncategorized,79,9
+23,13,Video,77,9
+23,14,Email,104,9
+23,14,General News & Opinion,110,9
+23,14,General Reference & Learning,241,9
+23,14,General Social Networking,76,9
+23,14,General Utilities,174,9
+23,14,Intelligence,196,9
+23,14,Search,1,9
+23,14,Uncategorized,452,9
+23,14,Writing,28,9
+23,15,Email,10,9
+23,15,General Reference & Learning,24,9
+23,15,General Social Networking,61,9
+23,15,General Utilities,95,9
+23,15,Instant Message,18,9
+23,15,Intelligence,267,9
+23,15,Search,109,9
+23,15,Uncategorized,6,9
+23,20,Calendars,8,9
+23,20,Email,318,9
+23,20,Instant Message,2,9
+23,20,Video,1,9
+23,21,Browsers,7,9
+23,21,Email,3,9
+23,21,General Utilities,6,9
+23,21,Video,2190,9
+23,22,Browsers,13,9
+23,22,Email,223,9
+23,22,General Business,70,9
+23,22,General Entertainment,373,9
+23,22,General News & Opinion,1,9
+23,22,General Social Networking,540,9
+23,22,General Utilities,116,9
+23,22,Internet Utilities,1,9
+23,22,Search,20,9
+23,22,Uncategorized,3,9
+23,22,Video,1001,9
+23,23,Browsers,8,9
+23,23,General Entertainment,1545,9
+23,23,General Shopping,221,9
+23,23,General Utilities,34,9
+23,23,Instant Message,72,9
+23,23,Search,328,9
+23,23,Uncategorized,1,9
+23,23,Video,184,9
+24,0,Browsers,18,9
+24,0,Email,1,9
+24,0,General Entertainment,3,9
+24,0,General Reference & Learning,325,9
+24,0,General Shopping,6,9
+24,0,General Social Networking,93,9
+24,0,Instant Message,110,9
+24,0,Search,43,9
+24,0,Uncategorized,882,9
+24,8,Browsers,70,9
+24,8,Calendars,6,9
+24,8,Email,615,9
+24,8,General Business,285,9
+24,8,General Reference & Learning,66,9
+24,8,General Shopping,11,9
+24,8,General Social Networking,1,9
+24,8,General Utilities,52,9
+24,8,Intelligence,2,9
+24,8,Search,17,9
+24,8,Uncategorized,50,9
+24,8,Video,1,9
+24,8,Writing,182,9
+24,10,Browsers,27,9
+24,10,Calendars,25,9
+24,10,Email,237,9
+24,10,General Business,2,9
+24,10,General Social Networking,580,9
+24,10,General Utilities,48,9
+24,10,Instant Message,23,9
+24,10,Internet Utilities,134,9
+24,10,Search,13,9
+24,10,Uncategorized,313,9
+24,11,Browsers,35,9
+24,11,Calendars,21,9
+24,11,Email,1,9
+24,11,General Business,2,9
+24,11,General News & Opinion,134,9
+24,11,General Reference & Learning,232,9
+24,11,General Social Networking,677,9
+24,11,General Utilities,34,9
+24,11,Instant Message,300,9
+24,11,Intelligence,7,9
+24,11,Internet Utilities,120,9
+24,11,Search,33,9
+24,11,Uncategorized,184,9
+24,11,Writing,1,9
+24,13,Browsers,9,9
+24,13,Calendars,11,9
+24,13,Email,1186,9
+24,13,General News & Opinion,1,9
+24,13,General Reference & Learning,4,9
+24,13,General Social Networking,15,9
+24,13,Intelligence,10,9
+24,13,Uncategorized,78,9
+24,13,Writing,1020,9
+24,14,Browsers,20,9
+24,14,Calendars,204,9
+24,14,Email,844,9
+24,14,General Business,26,9
+24,14,General News & Opinion,357,9
+24,14,General Reference & Learning,80,9
+24,14,General Shopping,90,9
+24,14,General Social Networking,193,9
+24,14,General Utilities,55,9
+24,14,Instant Message,65,9
+24,14,Intelligence,207,9
+24,14,Internet Utilities,14,9
+24,14,Search,27,9
+24,14,Uncategorized,17,9
+24,14,Writing,1026,9
+24,15,Browsers,5,9
+24,15,Email,24,9
+24,15,General Social Networking,99,9
+24,15,General Utilities,32,9
+24,15,Instant Message,160,9
+24,15,Writing,1172,9
+24,16,Email,234,9
+24,16,Instant Message,23,9
+24,16,Video,2,9
+24,21,Browsers,4,9
+24,21,Email,5,9
+24,21,General Reference & Learning,1,9
+24,21,General Utilities,100,9
+24,21,Instant Message,3,9
+24,21,Video,1685,9
+25,9,Browsers,26,9
+25,9,Calendars,6,9
+25,9,Email,1095,9
+25,9,General News & Opinion,8,9
+25,9,General Reference & Learning,1264,9
+25,9,General Social Networking,38,9
+25,9,General Utilities,35,9
+25,9,Instant Message,177,9
+25,9,Intelligence,2,9
+25,9,Internet Utilities,3,9
+25,9,Search,52,9
+25,9,Uncategorized,80,9
+25,9,Video,33,9
+25,9,Writing,3,9
+25,10,Email,371,9
+25,10,General Entertainment,187,9
+25,10,General Reference & Learning,657,9
+25,10,General Social Networking,100,9
+25,10,General Utilities,28,9
+25,10,Instant Message,17,9
+25,10,Writing,2,9
+25,11,Browsers,34,9
+25,11,Calendars,12,9
+25,11,Email,956,9
+25,11,General Business,136,9
+25,11,General Entertainment,83,9
+25,11,General Reference & Learning,1211,9
+25,11,General Shopping,157,9
+25,11,General Social Networking,73,9
+25,11,General Software Development,7,9
+25,11,General Utilities,8,9
+25,11,Intelligence,3,9
+25,11,Search,78,9
+25,11,Uncategorized,60,9
+25,11,Writing,710,9
+25,12,Browsers,6,9
+25,12,General Business,15,9
+25,12,General Entertainment,51,9
+25,12,General Reference & Learning,109,9
+25,12,General Shopping,16,9
+25,12,General Social Networking,14,9
+25,12,Instant Message,3,9
+25,12,Intelligence,15,9
+25,12,Project Management,1,9
+25,12,Science & Technology,25,9
+25,12,Search,48,9
+25,12,Uncategorized,28,9
+25,12,Writing,1292,9
+25,13,Browsers,2,9
+25,13,Email,210,9
+25,13,General Entertainment,13,9
+25,13,Instant Message,182,9
+25,13,Search,3,9
+25,13,Writing,3190,9
+25,14,Browsers,9,9
+25,14,Email,1,9
+25,14,General Business,2,9
+25,14,General Entertainment,5,9
+25,14,General Reference & Learning,40,9
+25,14,Instant Message,492,9
+25,14,Search,12,9
+25,14,Uncategorized,20,9
+25,14,Writing,3016,9
+25,15,Browsers,11,9
+25,15,Email,89,9
+25,15,Engineering & Technology,1,9
+25,15,General Reference & Learning,41,9
+25,15,General Social Networking,1,9
+25,15,Instant Message,101,9
+25,15,Search,92,9
+25,15,Writing,2734,9
+25,16,Browsers,7,9
+25,16,Calendars,20,9
+25,16,Email,444,9
+25,16,General Entertainment,66,9
+25,16,General Reference & Learning,18,9
+25,16,General Social Networking,342,9
+25,16,General Software Development,91,9
+25,16,General Utilities,36,9
+25,16,Instant Message,2,9
+25,16,Search,27,9
+25,16,Uncategorized,4,9
+25,20,Administration,168,9
+25,20,Browsers,32,9
+25,20,Calendars,1,9
+25,20,Email,872,9
+25,20,General News & Opinion,84,9
+25,20,General Reference & Learning,282,9
+25,20,General Shopping,172,9
+25,20,General Social Networking,161,9
+25,20,General Software Development,225,9
+25,20,General Utilities,191,9
+25,20,Intelligence,74,9
+25,20,Search,9,9
+25,20,Uncategorized,8,9
+25,21,Browsers,32,9
+25,21,Email,148,9
+25,21,General Entertainment,1,9
+25,21,General News & Opinion,182,9
+25,21,General Reference & Learning,430,9
+25,21,General Shopping,73,9
+25,21,General Social Networking,75,9
+25,21,General Software Development,142,9
+25,21,General Utilities,67,9
+25,21,Search,24,9
+25,21,Uncategorized,338,9
+25,22,Browsers,60,9
+25,22,Clothes & Personal,27,9
+25,22,Email,68,9
+25,22,Engineering & Technology,178,9
+25,22,General Entertainment,231,9
+25,22,General News & Opinion,214,9
+25,22,General Social Networking,209,9
+25,22,Sales,70,9
+25,22,Search,162,9
+25,22,Society,197,9
+25,22,Sports,18,9
+25,22,Uncategorized,95,9
+25,22,Video,1,9
+25,23,Browsers,19,9
+25,23,Business,229,9
+25,23,Email,8,9
+25,23,General News & Opinion,442,9
+25,23,General Reference & Learning,311,9
+25,23,General Social Networking,90,9
+25,23,Search,27,9
+25,23,Uncategorized,120,9
+25,23,Video,1986,9
+26,0,General Reference & Learning,220,9
+26,0,General Social Networking,33,9
+26,8,Browsers,21,9
+26,8,Email,271,9
+26,8,General Reference & Learning,368,9
+26,8,General Shopping,20,9
+26,8,General Social Networking,571,9
+26,8,General Software Development,1,9
+26,8,Intelligence,11,9
+26,8,Search,9,9
+26,8,Uncategorized,58,9
+26,9,Browsers,17,9
+26,9,Email,269,9
+26,9,General News & Opinion,73,9
+26,9,General Reference & Learning,2,9
+26,9,General Social Networking,345,9
+26,9,General Software Development,221,9
+26,9,General Utilities,46,9
+26,9,Search,3,9
+26,9,Uncategorized,61,9
+26,9,Video,9,9
+26,10,Browsers,8,9
+26,10,Email,3,9
+26,10,General Social Networking,79,9
+26,10,General Utilities,32,9
+26,10,Search,9,9
+26,10,Video,1530,9
+26,11,Video,691,9
+26,12,Video,1211,9
+26,13,Browsers,22,9
+26,13,General News & Opinion,23,9
+26,13,General Utilities,33,9
+26,13,Intelligence,18,9
+26,13,Search,227,9
+26,13,Video,3002,9
+26,17,Browsers,32,9
+26,17,Email,211,9
+26,17,General News & Opinion,322,9
+26,17,General Reference & Learning,11,9
+26,17,General Social Networking,317,9
+26,17,General Utilities,63,9
+26,17,Instant Message,6,9
+26,17,Video,9,9
+26,18,Browsers,16,9
+26,18,General News & Opinion,121,9
+26,18,General Social Networking,178,9
+26,18,General Utilities,30,9
+26,18,Search,147,9
+26,18,Uncategorized,240,9
+26,19,Browsers,8,9
+26,19,Email,230,9
+26,19,General News & Opinion,90,9
+26,19,General Reference & Learning,3,9
+26,19,General Social Networking,168,9
+26,19,General Utilities,31,9
+26,19,Search,16,9
+26,19,Uncategorized,170,9
+26,19,Voice Chat,1,9
+27,10,Browsers,26,9
+27,10,Email,109,9
+27,10,General Reference & Learning,26,9
+27,10,Search,236,9
+27,10,Uncategorized,2,9
+27,10,Video,2,9
+27,10,Voice Chat,440,9
+27,11,Voice Chat,236,9
+27,13,General Reference & Learning,5,9
+27,13,General Utilities,2,9
+27,13,Search,24,9
+27,13,Video,1213,9
+27,13,Voice Chat,2,9
+27,14,Email,1,9
+27,14,General Utilities,32,9
+27,14,Video,515,9
+27,17,Browsers,14,9
+27,17,Email,549,9
+27,17,General Business,66,9
+27,17,General Reference & Learning,1,9
+27,17,General Social Networking,210,9
+27,17,General Utilities,19,9
+27,17,Uncategorized,6,9
+27,17,Video,4,9
+27,18,Browsers,53,9
+27,18,General News & Opinion,19,9
+27,18,General Reference & Learning,19,9
+27,18,General Utilities,29,9
+27,18,Search,130,9
+27,18,Uncategorized,6,9
+27,18,Video,652,9
+27,19,Video,2002,9
+27,20,Browsers,22,9
+27,20,Email,50,9
+27,20,General Business,3,9
+27,20,General News & Opinion,16,9
+27,20,General Reference & Learning,13,9
+27,20,General Shopping,27,9
+27,20,General Social Networking,153,9
+27,20,General Utilities,72,9
+27,20,Intelligence,50,9
+27,20,Search,10,9
+27,20,Uncategorized,31,9
+27,20,Video,8,9
+27,21,Browsers,11,9
+27,21,General Business,28,9
+27,21,Video,674,9
+27,22,General Reference & Learning,4,9
+27,22,General Utilities,33,9
+27,22,Video,1271,9
+28,0,Browsers,11,9
+28,0,General Business,32,9
+28,0,General Reference & Learning,1,9
+28,0,General Utilities,31,9
+28,0,Video,1117,9
+28,8,Browsers,32,9
+28,8,Email,102,9
+28,8,General Business,6,9
+28,8,General Entertainment,11,9
+28,8,General News & Opinion,175,9
+28,8,General Reference & Learning,1883,9
+28,8,General Social Networking,40,9
+28,8,Search,87,9
+28,8,Uncategorized,134,9
+28,9,Browsers,31,9
+28,9,Calendars,58,9
+28,9,Email,953,9
+28,9,General Business,4,9
+28,9,General Reference & Learning,1745,9
+28,9,General Social Networking,38,9
+28,9,Project Management,27,9
+28,9,Science & Technology,23,9
+28,9,Search,76,9
+28,9,Uncategorized,187,9
+28,9,Video,1,9
+28,10,Browsers,18,9
+28,10,General Reference & Learning,33,9
+28,10,General Social Networking,2,9
+28,10,Intelligence,66,9
+28,10,Search,22,9
+28,10,Systems Operations,7,9
+28,10,Uncategorized,38,9
+28,10,Video,2682,9
+28,11,Email,35,9
+28,11,Video,140,9
+28,13,Browsers,4,9
+28,13,Email,458,9
+28,13,General Reference & Learning,6,9
+28,13,General Shopping,1,9
+28,13,General Utilities,33,9
+28,13,Uncategorized,2,9
+28,14,Browsers,8,9
+28,14,Email,129,9
+28,14,General Shopping,486,9
+28,14,General Social Networking,73,9
+28,14,Intelligence,3,9
+28,14,Presentation,1,9
+28,14,Writing,52,9
+28,15,Browsers,57,9
+28,15,Email,151,9
+28,15,General Business,109,9
+28,15,General Entertainment,31,9
+28,15,General Shopping,526,9
+28,15,General Social Networking,95,9
+28,15,General Utilities,41,9
+28,15,Presentation,1061,9
+28,15,Regional,12,9
+28,15,Search,750,9
+28,15,Uncategorized,24,9
+28,15,Writing,40,9
+28,16,Browsers,6,9
+28,16,General Business,45,9
+28,16,General Reference & Learning,647,9
+28,16,Presentation,1456,9
+28,17,General Reference & Learning,111,9
+28,17,Marketing,4,9
+28,18,Browsers,21,9
+28,18,Calendars,61,9
+28,18,Email,655,9
+28,18,General Business,177,9
+28,18,General Entertainment,17,9
+28,18,General News & Opinion,3,9
+28,18,General Reference & Learning,287,9
+28,18,General Shopping,5,9
+28,18,General Social Networking,1,9
+28,18,Intelligence,5,9
+28,18,Marketing,850,9
+28,18,Presentation,50,9
+28,18,Project Management,48,9
+28,18,Search,12,9
+28,18,Uncategorized,15,9
+28,19,Browsers,19,9
+28,19,Calendars,178,9
+28,19,Email,893,9
+28,19,General Business,10,9
+28,19,General Reference & Learning,151,9
+28,19,General Utilities,392,9
+28,19,Marketing,490,9
+28,19,Science & Technology,78,9
+28,19,Search,26,9
+28,19,Uncategorized,166,9
+28,19,Writing,456,9
+28,20,Browsers,27,9
+28,20,Email,469,9
+28,20,Engineering & Technology,11,9
+28,20,General Business,6,9
+28,20,General Reference & Learning,1598,9
+28,20,General Software Development,132,9
+28,20,Presentation,262,9
+28,20,Science & Technology,3,9
+28,20,Search,292,9
+28,20,Uncategorized,311,9
+28,20,Writing,3,9
+28,21,Administration,147,9
+28,21,Browsers,3,9
+28,21,Email,775,9
+28,21,General Business,87,9
+28,21,General Reference & Learning,16,9
+28,21,General Utilities,170,9
+28,21,Search,138,9
+28,21,Uncategorized,177,9
+28,21,Writing,53,9
+29,7,Browsers,6,9
+29,7,Calendars,4,9
+29,7,Email,1,9
+29,7,General Business,150,9
+29,7,General Reference & Learning,2,9
+29,7,General Utilities,30,9
+29,7,Intelligence,12,9
+29,7,Uncategorized,6,9
+29,8,Browsers,2,9
+29,8,Calendars,447,9
+29,8,Email,3,9
+29,8,General Utilities,31,9
+29,8,Writing,1,9
+29,9,Browsers,54,9
+29,9,Calendars,13,9
+29,9,General Business,83,9
+29,9,General Reference & Learning,6,9
+29,9,Intelligence,7,9
+29,9,Presentation,5,9
+29,9,Project Management,14,9
+29,9,Voice Chat,83,9
+29,9,Writing,692,9
+29,10,Browsers,35,9
+29,10,General Business,7,9
+29,10,General Reference & Learning,46,9
+29,10,General Utilities,96,9
+29,10,Search,103,9
+29,10,Uncategorized,549,9
+29,10,Voice Chat,553,9
+29,10,Writing,477,9
+29,12,Browsers,14,9
+29,12,Email,3,9
+29,12,General Business,2003,9
+29,12,General Reference & Learning,93,9
+29,12,General Software Development,141,9
+29,12,General Utilities,208,9
+29,12,Intelligence,107,9
+29,12,Project Management,22,9
+29,12,Uncategorized,99,9
+29,13,Browsers,10,9
+29,13,Calendars,67,9
+29,13,Email,2442,9
+29,13,General Business,112,9
+29,13,General Reference & Learning,373,9
+29,13,General Shopping,11,9
+29,13,General Social Networking,18,9
+29,13,General Utilities,65,9
+29,13,Search,8,9
+29,13,Uncategorized,156,9
+29,14,Browsers,256,9
+29,14,Email,748,9
+29,14,General Business,1,9
+29,14,General Reference & Learning,491,9
+29,14,General Utilities,65,9
+29,14,Search,2,9
+29,14,Uncategorized,483,9
+29,15,Browsers,17,9
+29,15,Email,441,9
+29,15,General Business,367,9
+29,15,General Entertainment,83,9
+29,15,General Reference & Learning,7,9
+29,15,General Shopping,132,9
+29,15,General Social Networking,13,9
+29,15,General Utilities,17,9
+29,15,Project Management,47,9
+29,15,Writing,29,9
+29,16,Accounting,2,9
+29,16,Browsers,8,9
+29,16,Email,1621,9
+29,16,Engineering & Technology,161,9
+29,16,General Business,1012,9
+29,16,General News & Opinion,6,9
+29,16,General Reference & Learning,198,9
+29,16,General Shopping,11,9
+29,16,General Software Development,2,9
+29,16,General Utilities,173,9
+29,16,Intelligence,63,9
+29,16,Project Management,22,9
+29,16,Search,5,9
+29,16,Uncategorized,4,9
+29,17,Browsers,16,9
+29,17,Calendars,83,9
+29,17,Email,2535,9
+29,17,Engineering & Technology,29,9
+29,17,General Entertainment,16,9
+29,17,General News & Opinion,4,9
+29,17,General Reference & Learning,259,9
+29,17,Intelligence,38,9
+29,17,Science & Technology,13,9
+29,17,Search,26,9
+29,17,Uncategorized,6,9
+29,18,Browsers,148,9
+29,18,Email,1367,9
+29,18,Engineering & Technology,218,9
+29,18,General Entertainment,24,9
+29,18,General News & Opinion,103,9
+29,18,General Reference & Learning,12,9
+29,18,General Shopping,22,9
+29,18,General Social Networking,274,9
+29,18,General Utilities,153,9
+29,18,Professional Networking,265,9
+29,18,Science & Technology,13,9
+29,18,Search,122,9
+29,18,Uncategorized,270,9
+29,18,Voice Chat,3,9
+29,18,Writing,496,9
+29,21,Browsers,10,9
+29,21,Email,175,9
+29,21,Engineering & Technology,29,9
+29,21,General News & Opinion,1,9
+29,21,General Social Networking,100,9
+29,21,General Utilities,32,9
+29,21,Search,4,9
+29,21,Uncategorized,13,9
+29,22,Browsers,5,9
+29,22,Email,143,9
+29,22,Engineering & Technology,8,9
+29,22,General News & Opinion,279,9
+29,22,General Social Networking,18,9
+29,22,General Utilities,8,9
+29,23,Browsers,21,9
+29,23,Email,741,9
+29,23,Engineering & Technology,8,9
+29,23,General Business,4,9
+29,23,General News & Opinion,506,9
+29,23,General Shopping,2,9
+29,23,General Social Networking,1301,9
+29,23,General Software Development,80,9
+29,23,General Utilities,31,9
+29,23,Home & Garden,45,9
+29,23,Maps & Regional,1,9
+29,23,Professional Networking,1,9
+29,23,Search,16,9
+29,23,Uncategorized,129,9
+30,7,Browsers,15,9
+30,7,General Business,10,9
+30,7,General Social Networking,3,9
+30,7,General Software Development,28,9
+30,7,General Utilities,32,9
+30,7,Maps & Regional,129,9
+30,7,Project Management,44,9
+30,7,Search,5,9
+30,7,Uncategorized,4,9
+30,11,Browsers,1,9
+30,11,Email,4,9
+30,11,General Software Development,23,9
+30,11,General Utilities,29,9
+30,11,Project Management,3,9
+30,11,Voice Chat,1,9
+30,12,Browsers,18,9
+30,12,Email,1,9
+30,12,Engineering & Technology,2,9
+30,12,General Business,18,9
+30,12,General Shopping,7,9
+30,12,General Software Development,19,9
+30,12,General Utilities,4,9
+30,12,Search,51,9
+30,12,Uncategorized,12,9
+30,12,Voice Chat,92,9
+30,12,Writing,2,9
+30,13,Browsers,12,9
+30,13,Email,521,9
+30,13,General Entertainment,406,9
+30,13,General Reference & Learning,3,9
+30,13,General Utilities,70,9
+30,13,Internet Utilities,5,9
+30,13,Search,61,9
+30,13,Uncategorized,3,9
+30,13,Writing,363,9
+30,14,Browsers,32,9
+30,14,Calendars,22,9
+30,14,Email,414,9
+30,14,General Business,88,9
+30,14,General Entertainment,49,9
+30,14,General Reference & Learning,1250,9
+30,14,General Shopping,309,9
+30,14,General Social Networking,47,9
+30,14,General Utilities,306,9
+30,14,Search,89,9
+30,14,Uncategorized,679,9
+30,14,Voice Chat,1,9
+30,14,Writing,31,9
+30,15,Browsers,44,9
+30,15,Calendars,43,9
+30,15,Email,227,9
+30,15,General Entertainment,4,9
+30,15,General Shopping,54,9
+30,15,General Utilities,40,9
+30,15,Intelligence,2,9
+30,15,Project Management,6,9
+30,15,Voice Chat,256,9
+30,15,Writing,209,9
+30,16,Browsers,34,9
+30,16,Calendars,4,9
+30,16,Email,979,9
+30,16,General Business,3,9
+30,16,General Reference & Learning,91,9
+30,16,Professional Networking,18,9
+30,16,Project Management,64,9
+30,16,Search,63,9
+30,16,Uncategorized,121,9
+30,16,Voice Chat,2115,9
+30,16,Writing,107,9
+30,17,Browsers,14,9
+30,17,Calendars,77,9
+30,17,Email,914,9
+30,17,General Business,18,9
+30,17,General Reference & Learning,202,9
+30,17,General Utilities,57,9
+30,17,Professional Networking,3,9
+30,17,Search,6,9
+30,17,Uncategorized,84,9
+30,17,Voice Chat,799,9
+30,17,Writing,25,9
+30,18,Browsers,29,9
+30,18,Email,286,9
+30,18,Engineering & Technology,157,9
+30,18,Games,1,9
+30,18,General Business,69,9
+30,18,General News & Opinion,1,9
+30,18,General Reference & Learning,267,9
+30,18,General Shopping,25,9
+30,18,General Software Development,8,9
+30,18,General Utilities,11,9
+30,18,Professional Networking,33,9
+30,18,Project Management,14,9
+30,18,Science & Technology,31,9
+30,18,Search,82,9
+30,18,Uncategorized,1119,9
+30,18,Voice Chat,36,9
+30,18,Writing,4,9
+30,19,Browsers,108,9
+30,19,Email,98,9
+30,19,Engineering & Technology,39,9
+30,19,Games,1341,9
+30,19,General Reference & Learning,24,9
+30,19,General Social Networking,1,9
+30,19,General Utilities,102,9
+30,19,Project Management,54,9
+30,19,Search,13,9
+30,19,Uncategorized,64,9
+30,19,Writing,63,9
+30,20,Browsers,10,9
+30,20,Email,262,9
+30,20,Games,9,9
+30,20,General News & Opinion,1,9
+30,20,General Social Networking,545,9
+30,20,Uncategorized,7,9
+30,21,Browsers,30,9
+30,21,Email,62,9
+30,21,Engineering & Technology,64,9
+30,21,General Entertainment,7,9
+30,21,General News & Opinion,827,9
+30,21,General Reference & Learning,32,9
+30,21,General Social Networking,434,9
+30,21,General Utilities,43,9
+30,21,Intelligence,195,9
+30,21,Marketing,90,9
+30,21,Search,404,9
+30,21,Uncategorized,614,9
+30,21,Video,78,9
+30,21,Writing,716,9
+30,22,Browsers,13,9
+30,22,Calendars,84,9
+30,22,Email,189,9
+30,22,Engineering & Technology,438,9
+30,22,General News & Opinion,26,9
+30,22,General Reference & Learning,21,9
+30,22,General Shopping,37,9
+30,22,General Software Development,164,9
+30,22,General Utilities,45,9
+30,22,Intelligence,9,9
+30,22,Search,117,9
+30,22,Uncategorized,206,9
+30,22,Writing,2249,9
+30,23,Browsers,3,9
+30,23,Calendars,14,9
+30,23,Email,191,9
+30,23,Engineering & Technology,164,9
+30,23,General Business,89,9
+30,23,General Entertainment,145,9
+30,23,General Reference & Learning,34,9
+30,23,General Social Networking,161,9
+30,23,General Software Development,53,9
+30,23,General Utilities,3,9
+30,23,Intelligence,372,9
+30,23,Search,11,9
+30,23,Uncategorized,399,9
+30,23,Writing,1957,9

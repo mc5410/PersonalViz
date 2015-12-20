@@ -15,7 +15,7 @@
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
 <script>
-d3.csv("compare_profcsv.csv", function(result){
+d3.csv("profcsv.csv", function(result){
             showList(result);
             }
           )
@@ -29,7 +29,7 @@ function showList(result) {
     
      data = result.map(function(d){
                 return {
-                    name: d.Activity,
+                    name: d.Category,
                     TimeSpent: +d.Timespent,
                     Hour: +d.Hour,
                     Day : +d.Day,
@@ -37,13 +37,12 @@ function showList(result) {
                        }
                     })
      
-
   
        data = data.filter(function(d) {
              return d.Month === document.getElementById('current-month').value;
         console.log(data);
                    }) 
-       
+       console.log(data);
 
         data.sort(function(a,b){
                // return d3.descending(a.date, b.date);
@@ -81,15 +80,15 @@ function showList(result) {
              //   datachx = []
               //datachx.push(datalost[0]);
           //  xyz = d3.nest().key(function(d,i){ return d.name[i];}).entries(datachx);
-            xyz = "URL" // datachx.pop(name[0]);    
+            xyz = "browsers" // datachx.pop(name[0]);    
         console.log(xyz);
     
-    populate();
+    populate(datach2,datach3);
         
     }
     
     
-    function populate(){      
+    function populate(datach2,datach3){      
         
             var select1  = d3.select("#App1"),
             options1 = select1.selectAll('option').data(datach2);
@@ -541,7 +540,7 @@ function previousMonth() {
 }
     
 function run(){
-    d3.csv("compare_profcsv.csv", function(result){
+    d3.csv("profcsv.csv", function(result){
             showList(result);
             }
           )
@@ -862,10 +861,10 @@ li.selected {
  
    
   <ul id ="Menu">
-  <li id ="Menu2" ><a href="index.html">HeatMap</a></li>
-  <li  id ="Menu4" ><a class="active" href="viz_finalproj.html">Compare</a></li> 
+  <li id ="Menu2" ><a href="PersonalViz/index.html">HeatMap</a></li>
+  <li  id ="Menu4" ><a class="active" href="PersonalViz/viz_finalproj.html">Compare</a></li> 
       <li id ="Menu5" ><a href="#asha">Frequency</a></li>
-  <li id ="Menu6" ><a href="sections.html">Sections</a></li>
+  <li id ="Menu6" ><a href="#login">Sections</a></li>
     </ul>
 
 			<div id="title" style="height:25%;">
